@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#app {
+    height: 100vh;
+    background: #F4F7FD;
+}
+
+:root {
+    --p-button-border-radius: 3232px;
+}
